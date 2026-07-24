@@ -50,19 +50,6 @@ Ecommerce-Website/
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-- Home Page
-- Products Page
-- Product Details
-- Shopping Cart
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository
